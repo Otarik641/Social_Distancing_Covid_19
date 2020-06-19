@@ -4,8 +4,8 @@ It's is an AI tool to prevent spreading of coronavirus (COVID-19) by using compu
 
 Features:
 
-  *Real time analytics:
-  
+   *Real time analytics:
+
     *Number of people in a particular area
     *Number of people in high risk
     *Risk zone.
@@ -22,3 +22,9 @@ Installation:
     *For slower CPUs, use yolov3-tiny
     *Install all the dependenices
     *Run social_distancing.py 
+    
+    
+Credits:
+
+     YOLOv3: An Incremental Improvement}, author={Redmon, Joseph and Farhadi, Ali}
+     Ankush Chaudhari
