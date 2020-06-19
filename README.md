@@ -5,6 +5,7 @@ It's is an AI tool to prevent spreading of coronavirus (COVID-19) by using compu
 Features:
 
   *Real time analytics:
+  
     *Number of people in a particular area
     *Number of people in high risk
     *Risk zone.
@@ -12,10 +13,11 @@ Features:
   
   
 Installation:
-  *Clone the repository and download the code.
-  *Download the following files and place it in the same directory
-    *https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-    *https://pjreddie.com/media/files/yolov3.weights
-  *For slower CPUs, use yolov3-tiny
-  *Install all the dependenices
-  *Run social_distancing.py 
+
+   *Clone the repository and download the code.
+   *Download the following files and place it in the same directory
+     *https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+     *https://pjreddie.com/media/files/yolov3.weights
+   *For slower CPUs, use yolov3-tiny
+   *Install all the dependenices
+   *Run social_distancing.py 
